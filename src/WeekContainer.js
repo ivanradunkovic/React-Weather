@@ -1,10 +1,14 @@
 import React from 'react';
+import apiConfig from './apiKeys';
 
 class WeekContainer extends React.Component {
   render() {
+
+    // const weatherURL =
+
     return (
       <div>
-        <h1>Weather</h1>
+        <h1>Hello World!</h1>
       </div>
     )
   }
